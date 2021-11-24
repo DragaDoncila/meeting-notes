@@ -1,0 +1,42 @@
+# napari documentation working group
+
+Zoom meeting: https://czi.zoom.us/j/96831524360 (even if it says that it's the one for september 15th.)
+Link to the HackMD: https://hackmd.io/10DKrIMhREmk9sa_QRirlg
+
+## 2021-11-17
+
+### Last week's action items
+- [ ] [name=Justin] to export the mural board and put a copy with the meeting notes
+- [x] [name=Justin] to invite Kira and Jeremy to the next docs meeting
+- [x] [name=Melissa] to get the main reorganization in place
+
+
+### Agenda
+- [x] [name=Draga] Download and/or GitHub JupyterBook buttons 
+    - [Related issue](https://github.com/napari/napari.github.io/issues/279)
+    - We'll have to see how categories/preview page work goes over this sprint, we may have time before the end of the year
+- [x] [name=Draga] File download link in markdown?
+    -  actually not as easy as we thought, so we will link to the raw file and instruct users to "save as" for now
+    - will be easy once we've got the Jupyterbook download buttons going
+- [ ] [name=Melissa] Document reorganisation
+    - People can review current documents, or generate new content
+    - A few suggestions:
+        - How to run scripts in example folder from main repo
+        - [How to run napari on remote/browser based desktops](https://github.com/napari/napari/issues/3387)
+        - [Customizing napari's interface](https://github.com/napari/napari/issues/3543)
+        - Updating the [napari in Docker document](https://napari.org/guides/stable/docker.html)
+        - Documents to review for typos/broken links/outdated information: https://github.com/napari/napari.github.io/issues/194
+- [ ] [name=lucy/tom] quick bravo cohort update
+    - "napari for absolute beginners" could be very useful here as some participants won't have napari/python experience
+    - need to align on the format for the deliverable
+
+- [Sphinx documentation on index generation (for the Glossary)](https://www.sphinx-doc.org/en/master/usage/restructuredtext/directives.html#index-generating-markup)
+
+### Next week's action items
+
+
+------
+
+At the end of the meeting:
+- Copy the contents of this document to a new file in https://github.com/napari/meeting-notes/new/main/2021/working-groups/documentation
+- Clear out the Agenda from last meeting
